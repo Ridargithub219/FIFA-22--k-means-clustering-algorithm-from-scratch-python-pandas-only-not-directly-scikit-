@@ -3,9 +3,9 @@ In this project, I'll be building a k-means clustering algorithm from scratch (u
 I'll then *compare this to the reference implementation from scikit-learn's KMean algo.
 
 
-**Project Steps**
+**Major Project walkthrough**
 
-* Write out pseudocode for the algorithm
+* Writing out pseudocode for the algorithm
 * Code the k-means algorithm
 * Plot the clusters from the algorithm
 * Compare performance to the scikit-learn algorithm
